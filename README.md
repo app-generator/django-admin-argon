@@ -1,11 +1,11 @@
 # Django Argon
 
-**Modern template for Django interface** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator)
+**Modern template for Django interface** coded in **Django Framework** by **AppSeed** [App Generator](https://appseed.us/app-generator)
 
 <br>
 
 ## Why Django Argon?
-- UI Kit: **[Black Dashboard](https://www.creative-tim.com/product/argon-dashboard-django?AFFILIATE=128200)** (Free version) provided by **Creative-Tim**
+- UI Kit: **Argon Dashboard** (Free version) provided by **Creative-Tim**
 - New fresh look
 - Responsive mobile interface
 - Minimal template overriding
@@ -91,4 +91,4 @@ Start fast your next Django project by using functional django argon.
 <br />
 
 ---
-**Django Argon** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**Django Argon** - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
